@@ -48,6 +48,7 @@
 ## Output:
 ![image](https://github.com/NaveenM-IOT0804/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117974950/34b83ece-8662-46f9-a9ae-f7a82b62ecde)
 
+![WhatsApp Image 2023-11-17 at 13 42 37_07a3afbf](https://github.com/NaveenM-IOT0804/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117974950/1aec1787-43d5-4d16-ac17-170283955dab)
 
 ### Name: NAVEEN M
 ### Register Number: 212222110029
